@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import GitHubForkRibbon from "react-github-fork-ribbon";
 import logo from "./logo.svg";
 import "./App.css";
 
@@ -59,6 +60,13 @@ class App extends Component {
   render() {
     return (
       <div className="App">
+        <GitHubForkRibbon
+          href="//github.com/OR13/create-react-app-orbit-db"
+          target="_blank"
+          position="right"
+        >
+          Fork me on GitHub
+        </GitHubForkRibbon>
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
