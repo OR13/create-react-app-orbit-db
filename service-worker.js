@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/create-react-app-orbit-db/precache-manifest.2c5bf40b2ce17f71017a2166761eddf1.js"
+  "/create-react-app-orbit-db/precache-manifest.98c9445e38e7d9cef2c64c2c20e86c83.js"
 );
 
 workbox.clientsClaim();
