@@ -1,4 +1,26 @@
-# Create React App + Orbit DB
+# Create React App + Orbit 
+
+### Setting Up IPFS
+
+- [Install IPFS](https://docs.ipfs.io/introduction/install/)
+
+```
+# Start Your IPFS Daemon
+ipfs daemon 
+
+# get your IPFS PeerID
+curl -s http://localhost:5001/api/v0/id | jq '.ID' 
+
+# Update package.json local hostingOptions to your PeerID.
+```
+
+### Building Your DApp
+
+```
+npm run start
+npm run deploy:local
+npm run deploy:github
+```
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
