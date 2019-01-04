@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" 
+	xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate" viewBox="0 0 500 500" width="500" height="500">
+	<defs>
+		<clipPath id="_clipPath">
+			<rect/>
+		</clipPath>
+	</defs>
+
+	<g clip-path="url(#_clipPath)">
+		<path class="st0" d="M73.4,73.4h340.1l149.1,149.1v113.3H449.2v113.4H335.8L73.4,186.8V73.4L73.4,73.4z M148,148h340.1v113.3H374.7
+	v113.4H261.3V261.3H148V148L148,148z M73.4,73.4L148,148 M374.7,374.7l74.5,74.5 M374.7,261.3l74.5,74.5 M488.1,261.3l74.5,74.5"/>
+
+	</g>
+</svg>

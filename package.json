@@ -2,7 +2,7 @@
   "name": "create-react-app-orbit-db",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://localhost:8080/ipns/QmeAEqFBjW9LqcoEXRzj4NS1qBC3sdGh6y9PvPTRkieG3C",
+  "homepage": "https://or13.github.io/create-react-app-orbit-db",
   "hostingOptions": {
     "local": "http://localhost:8080/ipns/QmeAEqFBjW9LqcoEXRzj4NS1qBC3sdGh6y9PvPTRkieG3C",
     "github": "https://or13.github.io/create-react-app-orbit-db"
@@ -16,11 +16,13 @@
     }
   },
   "dependencies": {
+    "ipfs-pubsub-room": "^1.4.0",
     "orbit-db": "^0.19.9",
     "qrcode.react": "^0.8.0",
     "react": "^16.5.0",
     "react-dom": "^16.5.0",
     "react-github-fork-ribbon": "^0.6.0",
+    "react-particles-js": "^2.4.2",
     "react-scripts": "2.1.1"
   },
   "scripts": {
